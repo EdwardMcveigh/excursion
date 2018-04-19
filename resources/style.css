@@ -3,14 +3,11 @@ body {
   background-color: black;
   text-align: center;
   color: white;
-
 }
 
 .main-heading {
   font-size: 50px;
-  color: white;
   font-weight: normal;
-
 }
 
 a {
@@ -22,7 +19,7 @@ a {
   padding: 1em;
 }
 
-.travel-guide h2 {
+.description {
   font-size: 42px;
   font-weight: 300;
 
@@ -34,7 +31,7 @@ a {
 }
 
 .travel-guide img {
-  padding-bottom: 1em;
+  padding-bottom: 2em;
 }
 
 .copyright {
