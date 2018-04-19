@@ -2,6 +2,7 @@ body {
   font-family: Verdana, Arial, sans-serif;
   background-color: black;
   text-align: center;
+  color: white;
 
 }
 
@@ -10,4 +11,33 @@ body {
   color: white;
   font-weight: normal;
 
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.video {
+  padding: 1em;
+}
+
+.travel-guide h2 {
+  font-size: 42px;
+  font-weight: 300;
+
+}
+
+.travel-guide p {
+  font-size: 21px;
+  color: Gray;
+}
+
+.travel-guide img {
+  padding-bottom: 1em;
+}
+
+.copyright {
+  text-align: right;
+  color: Gray;
 }
